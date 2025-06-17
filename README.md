@@ -6,13 +6,13 @@ Este repositório contém diversas atividades práticas desenvolvidas com a ling
 
 ## ✨ Conteúdos Incluídos
 
-- 🍎 **Cálculo de preço de frutas:** calcula o valor total baseado no peso e preço por quilo, com emissão de uma nota fiscal.
-- 📝 **Registro pessoal:** imprime o meu nome e idade no terminal.
-- 🎓 **Sistema de notas escolares:** exibe notas dos alunos diretamente no console.
-- 📋 **Menus interativos:** exercícios para criação de menus usando Java.
-
+- 📌 Fundamentos de Java: tipos de dados, variáveis, operadores, estruturas de controle.
+- ⚙️ Programação Orientada a Objetos (POO): classes, objetos, herança, polimorfismo e encapsulamento.
+- 🧱 Tratamento de exceções e manipulação de arquivos.
+- 📝 Projetos simples e exemplos práticos.
+- 🛠️ Ferramentas e utilitários desenvolvidos em Java.
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-- Java 
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="20" style="vertical-align:middle;" />
