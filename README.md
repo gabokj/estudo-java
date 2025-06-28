@@ -10,9 +10,13 @@ Este repositório contém diversas atividades práticas desenvolvidas com a ling
 - 📝 **Registro pessoal:** imprime o meu nome e idade no terminal.
 - 🎓 **Sistema de notas escolares:** exibe notas dos alunos diretamente no console.
 - 📋 **Menus interativos:** exercícios para criação de menus usando Java.
+- 📊 **Operações matemáticas:** realiza cálculos simples com dois números inteiros e exibe o resultado das operações.
+- 🔁 **Laços de repetição e condições:** exemplos com for, while e condicionais (if, else) aplicados a cenários do dia a dia.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java 
+- Java
+- Visual Studio Code / Eclipse	IDEs recomendadas para desenvolvimento e execução.
+- Terminal / Console	Execução de programas e entrada/saída padrão.
