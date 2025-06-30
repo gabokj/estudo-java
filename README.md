@@ -17,6 +17,8 @@ Este repositório contém diversas atividades práticas desenvolvidas com a ling
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java
-- Visual Studio Code / Eclipse	IDEs recomendadas para desenvolvimento e execução.
-- Terminal / Console	Execução de programas e entrada/saída padrão.
+| Tecnologia | Descrição |
+|:------------|:------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** — Linguagem de programação utilizada. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="35"/> | **Visual Studio Code / Eclipse** — IDEs recomendadas para desenvolvimento e execução. |
+| 💻 | **Terminal / Console** — Para execução dos programas e entrada/saída padrão. |
