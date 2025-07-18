@@ -37,7 +37,7 @@ public class CaixaEletronico {
 
         int opcao;
 
-        {
+        do {
             System.out.println("\n=== CAIXA ELETRÔNICO ===");
             System.out.println("1 - Ver saldo");
             System.out.println("2 - Sacar");
